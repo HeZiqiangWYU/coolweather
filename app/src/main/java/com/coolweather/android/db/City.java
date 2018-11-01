@@ -26,7 +26,6 @@ public class City extends DataSupport {
     }
 
     public int getId() {
-
         return id;
     }
 
